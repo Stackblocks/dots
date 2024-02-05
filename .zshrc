@@ -164,7 +164,9 @@ alias dch='dots checkout'
 alias dcm='dots commit -m'
 alias df='dots fetch'
 alias dl='dots log'
-alias dp='dots pull'
+alias dpl='dots pull'
+alias dps='dots push'
+alias ds='dots status'
 
 # Tmux Aliases
 alias t='tmux'
