@@ -223,7 +223,7 @@ symbol = "terraform "
 [zig]
 symbol = "zig "
 
-# Color Pallettes
+# Color Palettes
 [palettes.catppuccin_macchiato]
 rosewater = "#f4dbd6"
 flamingo = "#f0c6c6"
