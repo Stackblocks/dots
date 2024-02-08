@@ -138,10 +138,10 @@ alias v='nvim'
 # Directory Aliases
 alias ...='cd ../..'
 alias ..='cd ..'
-alias booklist='eza ~/Projects/Openstax/enki/ce-styles/styles/books'
-alias cestyles='cd ~/Projects/Openstax/enki/ce-styles/'
-alias cookbook='cd ~/Projects/Openstax/enki/cookbook'
-alias enki='cd ~/Projects/Openstax/enki'
+alias booklist='eza ~/Documents/Github/enki/ce-styles/styles/books'
+alias cestyles='cd ~/Documents/Github/enki' 
+alias cookbook='cd ~/Documents/Github/enki'
+alias enki='cd ~/Documents/Github/enki'
 
 # File Aliases
 alias ohmyzsh='nvim ~/.oh-my-zsh'

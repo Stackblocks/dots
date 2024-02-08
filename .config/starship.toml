@@ -1,3 +1,11 @@
+#---------------------------------
+# Set timeout for slow processes
+#---------------------------------
+command_timeout = 1000
+
+#---------------------------------
+# Plaintext Theme Configuration
+#---------------------------------
 [character]
 success_symbol = "[>](bold green)"
 error_symbol = "[x](bold red)"

@@ -4,7 +4,7 @@
 call plug#begin('~/.vim/plugged')
 
 """PLUGIN ZONE START"""
-Plug 'dracula/vim', { 'as': 'dracula' }
+Plug 'catppuccin/nvim', {'as': 'catppuccin'}
 Plug 'francoiscabrol/ranger.vim'
 Plug 'hrsh7th/nvim-cmp'
 Plug 'itchyny/lightline.vim'
