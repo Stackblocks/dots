@@ -73,6 +73,9 @@ map <leader>T <Plug>Sneak_T
 map <leader>s <Plug>Sneak_s
 map <leader>S <Plug>Sneak_S
 
+" Catppuccin
+colorscheme catppuccin-macchiato
+
 """"""""""""""""""""""""""""""""""""
 "" KEYMAPS 
 """"""""""""""""""""""""""""""""""""
